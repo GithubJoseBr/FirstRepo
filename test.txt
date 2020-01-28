@@ -1,3 +1,4 @@
 Just a test.
 Added a new line.
 Added a line 3.
+Added a line 4.
